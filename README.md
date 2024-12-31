@@ -4,7 +4,7 @@ The project was developed using QT Creator.
 Only the .cpp files are included, excluding the .h files.
 <hr style="border-top: 3px solid #bbb;">
 
-## 
+## Convert RGB Image to Gray, HSI, and NRG Images  
 
 RGB to Gray:  
 <img src="https://github.com/user-attachments/assets/17179403-ac3f-4d7b-a65c-3dfd2bc11ad3" alt="Description" style="width: 60%;">  
