@@ -1,1 +1,2 @@
-# Fundamental-computer-vision-without-using-OpenCV
+# Fundamental Computer Vision without using OpenCV
+
