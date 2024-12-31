@@ -26,12 +26,13 @@ RGB to NRG:
 
 ## Dilation, Erosion Morphology
 
-The two images above are the dilation and erosion images with a 3x3 kernel applied.  
-The two images below are the dilation and erosion images with a 5x5 kernel applied.  
+- Dilation and Erosion images with a 3x3 kernel applied.    
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/c8901c4d-aff7-4ef1-96cb-7ba043bd342f" alt="Description" style="width: 30%; margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/663c860f-8fe7-4436-a54d-39f0aac396a9" alt="Description" style="width: 30%;">
 </div>  
+  
+- Dilation and Erosion images with a 5x5 kernel applied.  
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/a51a7697-2622-48e5-9bc4-17c8f7cb7337" alt="Description" style="width: 30%; margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/20d6acb5-70f9-411d-9e59-9e06551a1606" alt="Description" style="width: 30%;">
