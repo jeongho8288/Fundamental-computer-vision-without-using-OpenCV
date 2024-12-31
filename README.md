@@ -16,16 +16,24 @@ RGB to NRG:
 <img src="https://github.com/user-attachments/assets/9dd35080-998b-44bf-8b31-d8d6f4e74750" alt="Description"  style="width: 60%;">   
 <hr style="border-top: 3px solid #bbb;">
 
+## Luminance Contrast Transform
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/e2484b22-11cd-4c9f-8706-94e1197ef195" alt="Description" style="width: 40%; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/a1b08101-c8d4-4c08-9310-ea00a0edfbef" alt="Description" style="width: 40%;">
+</div>
+<hr style="border-top: 3px solid #bbb;">
+
 
 
 
 ## Optical Flow
 
-
 Select consecutive images, calculate the optical flow, and display it on the screen.  
 ![image](https://github.com/user-attachments/assets/68bbf2af-1992-4517-a547-fb0abe7fad5f)
 ![image](https://github.com/user-attachments/assets/a29b65a0-7b47-4943-a1ca-189f6628f11f)
 ![image](https://github.com/user-attachments/assets/6534529e-2636-49a5-b3e0-063b72bbcf0b)
+<hr style="border-top: 3px solid #bbb;">
 
 
 
