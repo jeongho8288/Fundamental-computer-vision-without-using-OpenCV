@@ -22,7 +22,7 @@ RGB to NRG:
 ## Optical Flow
 
 
-Select consecutive images, calculate the optical flow, and display it on the screen.
+Select consecutive images, calculate the optical flow, and display it on the screen.  
 ![image](https://github.com/user-attachments/assets/68bbf2af-1992-4517-a547-fb0abe7fad5f)
 ![image](https://github.com/user-attachments/assets/a29b65a0-7b47-4943-a1ca-189f6628f11f)
 ![image](https://github.com/user-attachments/assets/6534529e-2636-49a5-b3e0-063b72bbcf0b)
