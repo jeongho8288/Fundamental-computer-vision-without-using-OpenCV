@@ -7,15 +7,14 @@ Only the .cpp files are included, excluding the .h files.
 ## 
 
 RGB to Gray:  
-<img src="https://github.com/user-attachments/assets/17179403-ac3f-4d7b-a65c-3dfd2bc11ad3" alt="Description" alt="Description2" style="width: 60%;">  
+<img src="https://github.com/user-attachments/assets/17179403-ac3f-4d7b-a65c-3dfd2bc11ad3" alt="Description" style="width: 60%;">  
   
-RGB to HSI:                                     RGB to NRG: 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/d20662dc-d819-45e5-9ae1-d7b5ebc79d74" alt="Description1" style="width: 40%; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/490f71fb-5d65-4bdf-9ee3-9632caf021ee" alt="Description" alt="Description2" style="width: 40%;">
-</div> 
+RGB to HSI:  
+<img src="https://github.com/user-attachments/assets/594717d6-2db7-474f-83b5-54a3863d039b" alt="Description" style="width: 60%;">  
 
-
+RGB to NRG:  
+<img src="https://github.com/user-attachments/assets/9dd35080-998b-44bf-8b31-d8d6f4e74750" alt="Description"  style="width: 60%;">  
+<hr style="border-top: 3px solid #bbb;">
 
 
 
