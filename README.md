@@ -19,8 +19,8 @@ RGB to NRG:
 ## Luminance Contrast Transform
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/e2484b22-11cd-4c9f-8706-94e1197ef195" alt="Description" style="width: 40%; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/a1b08101-c8d4-4c08-9310-ea00a0edfbef" alt="Description" style="width: 40%;">
+  <img src="https://github.com/user-attachments/assets/e2484b22-11cd-4c9f-8706-94e1197ef195" alt="Description" style="width: 30%; margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/a1b08101-c8d4-4c08-9310-ea00a0edfbef" alt="Description" style="width: 30%;">
 </div>
 <hr style="border-top: 3px solid #bbb;">
 
