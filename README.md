@@ -65,10 +65,10 @@ Using 4-neighbor method on the images obtained by applying dilation and erosion 
 
 ## Boundary Extraction Image
 
-- Foreground & Backgroung Image ( Type : Mb4 )  
+- Foreground & Background Image ( Type : Mb4 )  
 <img src="https://github.com/user-attachments/assets/323f2e09-201b-44bb-aebd-c6bf8ef09c55" alt="Description" style="width: 60%;">  
   
-- Foreground & Backgroung Image ( Type : Mb8 )   
+- Foreground & Background Image ( Type : Mb8 )   
 <img src="https://github.com/user-attachments/assets/9aaebff7-11f5-4e77-a045-f62669373bf4" alt="Description" style="width: 60%;">  
 <hr style="border-top: 3px solid #bbb;">
 
